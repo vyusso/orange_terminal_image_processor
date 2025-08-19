@@ -7,7 +7,9 @@ pip install pillow
 SHOWCASE
 
 before:
+
 ![before](cat-monitor.jpg)
 
 after:
+
 ![after](output.png)
